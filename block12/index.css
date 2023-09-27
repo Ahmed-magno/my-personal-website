@@ -64,17 +64,13 @@ main > h1 {
   h2 {
     font-size: 1.5em;
   }
-  
-  .quote {
-    font-family: 'Satisfy', cursive;
-    font-weight: 100;
-    color: white;
-    text-shadow: 1px 1px 2px black;
-    font-size: 3em;
-    text-align: center;
-    margin-top: 2em;
+  .quot {
+    font-family: 'satisfy',cursive
+  font-weight 100;
+  color: aqua;
+  text-shadow: 1px 1px 2px balck;
+  font-size: 3em;
+  text-align: center;
+  margain-top: 2em;
   }
-  . footer{
-    background-color: aliceblue;
-    podding: 20px 0;
-  }
+ 
